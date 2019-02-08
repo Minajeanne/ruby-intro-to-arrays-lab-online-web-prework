@@ -25,3 +25,6 @@ def first_element(my_first_element)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   my_first_element = first_element(@taylor_swift)
 end
+
+first_element_with_arrays_method()
+   @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
