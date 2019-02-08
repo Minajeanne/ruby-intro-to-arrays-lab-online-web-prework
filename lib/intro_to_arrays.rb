@@ -31,8 +31,7 @@ def last_element_with_array_methods(last_country)
    last_country = @south_east_asia[-1]
 end
 
-def length_of_an_array(length)
+def length_of_array(length)
    @programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
-   length = length_of_array(@programming_languages)
    length = @programming_languages.length
 end
